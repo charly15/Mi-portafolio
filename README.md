@@ -11,7 +11,7 @@ Mi portafolio hecho con html y css
 - 📫 How to reach me **Chalycarranza71@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
-<p align="left"> Chalycarranza71@gmail.com
+<p align="left"> Chalycarranza71@gmail.com o a whatsapp 4426148018
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
